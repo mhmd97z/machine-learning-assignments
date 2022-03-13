@@ -29,11 +29,13 @@ Classification
 Deep learning
 - Problem1.ipynb
   - Optimization in PyTorch: Simple SGD and SGD with momentum
-  - Norm-2 Regularization
+  - Ridge regularization
 - Problem2.ipynb
-  - deep learning
+  - training of a deep model 
+  - dropout regularization in DL
 - Problem1.ipynb
   - autoencoder
+  - L1, L2, dropout regularization
 
 ## hw5
-
+Imitation learning! 
